@@ -4,7 +4,7 @@
   LCD1602 Plugin for Octoprint
 """
 
-from __future__ import absolute_import
+
 from octoprint.printer.estimation import PrintTimeEstimator
 import octoprint.plugin
 import octoprint.events
